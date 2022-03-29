@@ -2,5 +2,5 @@
 
 Projects I made to practice Go
 
-- Hangman - [Source Code](https://github.com/MadsAkselsen/Go-Hangman)
-- Hangman - [Source Code](https://github.com/MadsAkselsen/go-pong)
+- [Hangman](https://github.com/MadsAkselsen/Go-Hangman)
+- [Pong](https://github.com/MadsAkselsen/go-pong)
