@@ -7,4 +7,4 @@ Projects I made to practice Go
 - [Quiz](https://github.com/MadsAkselsen/go-quiz)
 - [File Renaming Tool](https://github.com/MadsAkselsen/file-renaming-tool)
 - [PDF](https://github.com/MadsAkselsen/go-pdf)
-- [Deck of Cards](https://github.com/MadsAkselsen/go-deck-of-cards)
+- [Deck of Cards API](https://github.com/MadsAkselsen/go-deck-of-cards)
