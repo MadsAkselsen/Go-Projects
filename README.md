@@ -9,3 +9,4 @@ Projects I made to practice Go
 - [Creating PDF](https://github.com/MadsAkselsen/go-pdf)
 - [Deck of Cards API](https://github.com/MadsAkselsen/go-deck-of-cards)
 - [Choose Your Own Adventure](https://github.com/MadsAkselsen)
+- [CLI Task Manager](https://github.com/MadsAkselsen/go-cli-task-manager)
