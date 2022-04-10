@@ -10,3 +10,4 @@ Projects I made to practice Go
 - [Deck of Cards API](https://github.com/MadsAkselsen/go-deck-of-cards)
 - [Choose Your Own Adventure](https://github.com/MadsAkselsen)
 - [CLI Task Manager](https://github.com/MadsAkselsen/go-cli-task-manager)
+- [Mailing List Microservice](https://github.com/MadsAkselsen/mailing-list-microservice)
