@@ -11,4 +11,4 @@ Projects I made to practice Go
 - [Choose Your Own Adventure](https://github.com/MadsAkselsen)
 - [CLI Task Manager](https://github.com/MadsAkselsen/go-cli-task-manager)
 - [Mailing List Microservice](https://github.com/MadsAkselsen/mailing-list-microservice)
-- [TODO List Microservice](https://github.com/MadsAkselsen/go-todo-api/blob/main/README.md)
+- [TODO List Microservice](https://github.com/MadsAkselsen/go-todo-api)
