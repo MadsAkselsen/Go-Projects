@@ -12,3 +12,4 @@ Projects I made to practice Go
 - [CLI Task Manager](https://github.com/MadsAkselsen/go-cli-task-manager)
 - [Mailing List Microservice](https://github.com/MadsAkselsen/mailing-list-microservice)
 - [TODO List Microservice](https://github.com/MadsAkselsen/go-todo-api)
+- [Youtube API Microservice](https://github.com/MadsAkselsen/go-rest-api-1)
